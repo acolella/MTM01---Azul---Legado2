@@ -1,0 +1,6 @@
+C:\Users\nimco\source\repos\MTM01 - Azul - Legado\Mobile Legado\bin\Debug\Mobile Legado.dll
+C:\Users\nimco\source\repos\MTM01 - Azul - Legado\Mobile Legado\bin\Debug\Mobile Legado.pdb
+C:\Users\nimco\source\repos\MTM01 - Azul - Legado\Mobile Legado\obj\Debug\Mobile Legado.csprojResolveAssemblyReference.cache
+C:\Users\nimco\source\repos\MTM01 - Azul - Legado\Mobile Legado\obj\Debug\Mobile Legado.csproj.CoreCompileInputs.cache
+C:\Users\nimco\source\repos\MTM01 - Azul - Legado\Mobile Legado\obj\Debug\Mobile Legado.dll
+C:\Users\nimco\source\repos\MTM01 - Azul - Legado\Mobile Legado\obj\Debug\Mobile Legado.pdb

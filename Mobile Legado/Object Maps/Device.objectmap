@@ -1,0 +1,15 @@
+<ObjectMap version="1">
+  <ObjectMapEntry id="Device" locator="/MobileDevice">
+    <ObjectMapEntry id="action_menu_icon" locator="//MobileObject[@resource-id=&apos;br.com.voeazul:id/action_menu_icon&apos;]"/>
+    <ObjectMapEntry id="android view ViewGroup" locator="//MobileObject[@className=&apos;android.view.ViewGroup&apos;][2]"/>
+    <ObjectMapEntry id="android widget ImageView" locator="//MobileObject[@className=&apos;android.widget.ImageView&apos;]"/>
+    <ObjectMapEntry id="button1" locator="//MobileButton[@resource-id=&apos;android:id/button1&apos;]"/>
+    <ObjectMapEntry id="Fazer login" locator="//MobileObject[@caption=&apos;Fazer login&apos;]"/>
+    <ObjectMapEntry id="fragment_login_btn_entrar" locator="//MobileButton[@resource-id=&apos;br.com.voeazul:id/fragment_login_btn_entrar&apos;]"/>
+    <ObjectMapEntry id="fragment_login_edittext_login" locator="//MobileTextField[@resource-id=&apos;br.com.voeazul:id/fragment_login_edittext_login&apos;]"/>
+    <ObjectMapEntry id="fragment_login_edittext_senha" locator="//MobileTextField[@resource-id=&apos;br.com.voeazul:id/fragment_login_edittext_senha&apos;]"/>
+    <ObjectMapEntry id="message" locator="//MobileObject[@resource-id=&apos;android:id/message&apos;]"/>
+    <ObjectMapEntry id="tour_continue" locator="//MobileButton[@resource-id=&apos;br.com.voeazul:id/tour_continue&apos;]"/>
+    <ObjectMapEntry id="tour_next" locator="//MobileButton[@resource-id=&apos;br.com.voeazul:id/tour_next&apos;]"/>
+  </ObjectMapEntry>
+</ObjectMap>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recorderProject version="18.5">
+  <applicationConfiguration>
+    <connectionString>deviceName=SM-G930F;platformName=Android;host=localhost;app=C:\Users\nimco\Downloads\br.com.voeazul_2018-01-25.apk</connectionString>
+    <baseStateInfo>
+      <locator>/MobileDevice</locator>
+    </baseStateInfo>
+  </applicationConfiguration>
+  <agentOptions>
+    <entry>
+      <string>OPT_PLAYBACK_STATUS_DIALOG_SCREENSHOTS</string>
+      <boolean>true</boolean>
+    </entry>
+  </agentOptions>
+</recorderProject>

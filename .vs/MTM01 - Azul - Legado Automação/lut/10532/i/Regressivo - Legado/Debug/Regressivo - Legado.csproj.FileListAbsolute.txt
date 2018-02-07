@@ -1,0 +1,6 @@
+C:\Users\nimco\source\repos\MTM01 - Azul - Legado\.vs\MTM01 - Azul - Legado Automação\lut\0\b\Regressivo - Legado\bin\Debug\Regressivo - Legado.dll
+C:\Users\nimco\source\repos\MTM01 - Azul - Legado\.vs\MTM01 - Azul - Legado Automação\lut\0\b\Regressivo - Legado\bin\Debug\Regressivo - Legado.pdb
+C:\Users\nimco\source\repos\MTM01 - Azul - Legado\.vs\MTM01 - Azul - Legado Automação\lut\0\i\Regressivo - Legado\Debug\Regressivo - Legado.csprojResolveAssemblyReference.cache
+C:\Users\nimco\source\repos\MTM01 - Azul - Legado\.vs\MTM01 - Azul - Legado Automação\lut\0\i\Regressivo - Legado\Debug\Regressivo - Legado.csproj.CoreCompileInputs.cache
+C:\Users\nimco\source\repos\MTM01 - Azul - Legado\.vs\MTM01 - Azul - Legado Automação\lut\0\i\Regressivo - Legado\Debug\Regressivo - Legado.dll
+C:\Users\nimco\source\repos\MTM01 - Azul - Legado\.vs\MTM01 - Azul - Legado Automação\lut\0\i\Regressivo - Legado\Debug\Regressivo - Legado.pdb

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recorderProject version="18.5">
+  <applicationConfiguration>
+    <browserType>Firefox</browserType>
+    <baseStateInfo>
+      <locator>//BrowserApplication</locator>
+      <url>www.voeazul.com.br</url>
+    </baseStateInfo>
+  </applicationConfiguration>
+  <agentOptions>
+    <entry>
+      <string>OPT_XBROWSER_SYNC_MODE</string>
+      <int>1</int>
+    </entry>
+    <entry>
+      <string>OPT_ENABLE_ACCESSIBILITY</string>
+      <boolean>true</boolean>
+    </entry>
+    <entry>
+      <string>OPT_LOCATOR_ATTRIBUTES_CASE_SENSITIVE</string>
+      <boolean>true</boolean>
+    </entry>
+    <entry>
+      <string>OPT_ENABLE_MOBILE_WEBVIEW_FALLBACK_SUPPORT</string>
+      <boolean>true</boolean>
+    </entry>
+  </agentOptions>
+</recorderProject>
